@@ -3,10 +3,10 @@
 ## Hi there 👋
 
 
-Hey there... I am Vishnu Prasad Korada, currently I am studying Computer Science and Engineering. I love coding, graphic designing, space exploration scientic reseach and such...
+Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Science and Engineering. I love coding, sketching, graphic designing, space exploration scientific research, and such...
 
 
-- 🔭 I’m currently working on how backend applications are made in Node js along with HTML, CSS, JS
+- 🔭 I’m currently working on how Full Stack Web Development...
 
 
 - 📫 Email Me at <vishnuprasadkorada@gmail.com>
