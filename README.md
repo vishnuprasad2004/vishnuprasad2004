@@ -6,7 +6,7 @@
 Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Science and Engineering. I love coding, sketching, graphic designing, space exploration scientific research, and such...
 
 
-- 🔭 I’m currently working on how Full Stack Web Development...
+- 🔭 I’m currently working on Full Stack Web Development...
 
 
 - 📫 Email Me at <vishnuprasadkorada@gmail.com>
@@ -20,7 +20,7 @@ Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Scienc
 
 
 <!--
-**vishnuprasad2004/vishnuprasad2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vishnuprasad2004/vishnuprasad2004** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
