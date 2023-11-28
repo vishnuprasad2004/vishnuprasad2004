@@ -26,7 +26,7 @@ Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Scienc
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad2004&layout=compact&bg_color=22222222)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad2004&layout=compact&theme=dark)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada-32b550253/)    
 [![Instagram](https://img.shields.io/badge/Instagram-%23dd2a7b.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the_vishnuprasadkorada/)
