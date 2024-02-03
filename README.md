@@ -3,11 +3,16 @@
 ## Hi there 👋
 
 
-Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Science and Engineering. I love coding, sketching, graphic designing, space exploration scientific research, and such...
+<!--Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Science and Engineering. I love coding, sketching, graphic designing, space exploration scientific research, and such...-->
+As a Computer Science sophomore with a passion for AI/ML, I am dedicated to pushing the boundaries of technology and innovation. I am actively honing my skills in technologies like Full Stack Web Development and Machine Learning Algorithms.🧑🏽‍💻
+
+Beyond Programming, I also immerse myself in the world of design often as a creative outlet.🎨
+<br>
+
+Let's connect and collaborate... :D 
 
 
-- 🔭 I’m currently working on Full Stack Web Development...
-
+- 🔭 I’m currently working on Full Stack Web Development and Machine Learning...
 
 - 📫 Email Me at <vishnuprasadkorada@gmail.com>
 
