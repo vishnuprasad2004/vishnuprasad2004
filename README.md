@@ -45,7 +45,7 @@ Let's connect and collaborate... :D
 
 <img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png" height="250px">
 
-
+[![](https://visitcount.itsvg.in/api?id=vishnuprasad2004&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **vishnuprasad2004/vishnuprasad2004** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
