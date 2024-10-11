@@ -38,6 +38,8 @@ Let's connect and collaborate... :D
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad2004&layout=compact&theme=dark)
 
+[![An image of @vishnuprasad2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishnuprasad2004)](https://holopin.io/@vishnuprasad2004)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada-32b550253/)    
 [![Instagram](https://img.shields.io/badge/Instagram-%23dd2a7b.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the_vishnuprasadkorada/)
 
