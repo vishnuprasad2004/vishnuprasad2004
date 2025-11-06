@@ -55,8 +55,11 @@ Let's connect and collaborate... :D
 [![An image of @vishnuprasad2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishnuprasad2004)](https://holopin.io/@vishnuprasad2004)
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada)    
-[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/vishnuprasadkorada/)    
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada)    
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/vishnuprasadkorada/)    -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishnuprasadkor1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vishnuprasadkorada/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23dd2a7b.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the_vishnuprasadkorada/) -->
 
 ## Here is something to make you smile
