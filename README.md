@@ -1,10 +1,10 @@
-# Vishnu Prasad Korada
+<!-- # Vishnu Prasad Korada -->
 
 ## Hi there 👋
 
 
 <!--Hey there... I am Vishnu Prasad Korada, currently, I am studying Computer Science and Engineering. I love coding, sketching, graphic designing, space exploration scientific research, and such...-->
-As a Computer Science final year student with a passion for AI/ML, I am dedicated to pushing the boundaries of technology and innovation. I am actively honing my skills in technologies like Full Stack Web Development and Machine Learning Algorithms.🧑🏽‍💻
+I am Vishnu Prasad Korada, and as a CSE final year student with a passion for Development and Problem Solving, I dedicate my efforts to pushing the boundaries of technology and innovation through code and effective design. I actively work in the fields like Full Stack Web Development, Mobile App Development and AI/ML Development.🧑🏽‍💻
 
 Beyond Programming, I also immerse myself in the world of design often as a creative outlet.🎨
 <br>
@@ -12,12 +12,12 @@ Beyond Programming, I also immerse myself in the world of design often as a crea
 Let's connect and collaborate... :D 
 
 
-- 🔭 I’m currently working on Full Stack Web Development, Mobile Development and Machine Learning...
+<!-- 🔭 I’m currently working on Full Stack Web Development, Mobile Development and Machine Learning... -->
 
-- 📫 Email Me at <vishnuprasadkorada@gmail.com>
-- Visit my <a href="https://vishnu-prasad-korada.vercel.app">My Portfolio</a>
+**📫 Email Me at <vishnuprasadforwork@gmail.com> or visit my <a href="https://vishnu-prasad-korada.vercel.app">My Portfolio</a>**
 
-### This is my Tech Stack
+
+### Here are are all technologies I have worked with ... Basically my Tech Stack
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -53,8 +53,10 @@ Let's connect and collaborate... :D
 
 [![An image of @vishnuprasad2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishnuprasad2004)](https://holopin.io/@vishnuprasad2004)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada-32b550253/)    
-[![Instagram](https://img.shields.io/badge/Instagram-%23dd2a7b.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the_vishnuprasadkorada/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada)    
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/vishnuprasadkorada/)    
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23dd2a7b.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the_vishnuprasadkorada/) -->
 
 ## Here is something to make you smile
 
