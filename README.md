@@ -51,9 +51,9 @@ Let's connect and collaborate... :D
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad2004&layout=compact&theme=dark)
-
+<!--
 [![An image of @vishnuprasad2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishnuprasad2004)](https://holopin.io/@vishnuprasad2004)
-
+-->
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-korada)    
 [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/vishnuprasadkorada/)    -->
